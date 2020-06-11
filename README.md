@@ -1,5 +1,5 @@
 # THN `<CodeTest/>`
-![Ordinales](https://i.imgur.com/ysO9FfQ.png)
+![THN](https://i.imgur.com/ysO9FfQ.png)
 
 ---
 ## Description
