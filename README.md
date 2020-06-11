@@ -1,8 +1,5 @@
 # THN `<CodeTest/>`
-
-<div style="text-align:center">
-    <img src="https://i.imgur.com/ysO9FfQ.png" width="600px">
-</div>
+![Ordinales](https://i.imgur.com/ysO9FfQ.png)
 
 ---
 ## Description
